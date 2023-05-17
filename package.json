@@ -1,0 +1,19 @@
+{
+  "name": "blogging-website-mern",
+  "version": "1.0.0",
+  "description": "MERN app to learn Fullstack development",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "Usama Bagwan",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.0.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22"
+  }
+}
